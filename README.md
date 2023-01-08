@@ -4,8 +4,7 @@ In the video, I'll be demonstrating a couple of practical examples of how you ca
 For some examples, I'll also be comparing the solution that ChatGPT gives me to the one I came up with in a previous tutorial. This way, you can see the differences and how ChatGPT's solution stacks up.
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/mMkVdlHXcjo/0.jpg)](https://youtu.be/mMkVdlHXcjo)
 
 
 ## About Me
